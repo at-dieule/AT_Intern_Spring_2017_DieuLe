@@ -1,0 +1,47 @@
+.header {
+	height: 300px;
+}
+.logo {
+	float: left;
+}
+
+.logo img {
+	height: 40px;
+	width: 40px;
+	margin-left:  50px;
+	margin-top: 20px;
+	margin-right: 20px;
+
+	float: left;
+	
+
+}
+.logo .company_name {
+	float: left;
+
+}
+.logo .company_name h2 {
+	font-size: 15px;
+}
+.header-right {
+	float: right;
+	margin-right: 30px;
+	margin-top: 20px;
+}
+.clr {
+	 clear: both;
+}
+.header_menu {
+	margin-top: 20px;
+}
+.header_menu ul li a{
+	display: block;
+}
+.header_menu ul li{
+	float: left;
+	margin-left: 20px;
+}
+.banner {
+	background: rgba(0, 0, 0, 0) url("banner.png") no-repeat scroll 2px 6px;
+
+}
